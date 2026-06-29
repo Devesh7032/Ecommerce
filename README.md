@@ -290,12 +290,17 @@ VITE_GEMINI_API_KEY=your-google-gemini-api-key
 
 | Page | View Description |
 | :--- | :--- |
-| **Catalog Dashboard** | Modern storefront listing featuring active cursor-tracking `NexaFox` mascot |
-| **Product detail** | Zoom-on-hover image gallery, specifications panel, and customer reviews |
-| **AI Insights Panel** | Dynamic pop-up detailing AI analysis overview, specs, pros/cons, and competitors |
-| **Cart & checkout** | Shopping cart item counts, tax invoice logs, address selectors, and checkout flows |
-| **Dashboard History** | Profile order trackers showing invoice amounts, payment IDs, and delivery statuses |
-| **Admin Console** | Inventories tracker, stock level indicators, category builders, and orders update sliders |
+| **Catalog Dashboard** | <img width="1898" height="912" alt="Screenshot 2026-06-29 174437" src="https://github.com/user-attachments/assets/1fb7bca7-72ee-4c88-90cc-300b89f01699" />
+ |
+| **Product detail** | <img width="1902" height="907" alt="Screenshot 2026-06-29 174557" src="https://github.com/user-attachments/assets/6c8a137e-303e-47db-b4ea-bdb329cd9fee" />
+ |
+| **AI Insights Panel** | <img width="1903" height="907" alt="Screenshot 2026-06-29 174756" src="https://github.com/user-attachments/assets/837a4b3a-676d-4652-8e3c-9875901738b0" />
+ |
+| **Cart & checkout** | <img width="1907" height="908" alt="Screenshot 2026-06-29 174856" src="https://github.com/user-attachments/assets/b84acb8d-c733-407e-b4a5-7d3bddd50880" />
+ |
+| **Dashboard History** | <img width="1902" height="908" alt="Screenshot 2026-06-29 174936" src="https://github.com/user-attachments/assets/c34e5a7a-c138-4934-a87f-da0dad2c36c9" />
+ |
+
 
 ---
 
