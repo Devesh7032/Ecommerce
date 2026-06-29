@@ -287,8 +287,8 @@ VITE_GEMINI_API_KEY=your-google-gemini-api-key
 ---
 
 ## 📸 Screenshots
-
- **Catalog Dashboard**  <img width="1898" height="912" alt="Screenshot 2026-06-29 174437" src="https://github.com/user-attachments/assets/1fb7bca7-72ee-4c88-90cc-300b89f01699" />
+ |page| |images|
+ |**Catalog Dashboard**| <img width="1898" height="912" alt="Screenshot 2026-06-29 174437" src="https://github.com/user-attachments/assets/1fb7bca7-72ee-4c88-90cc-300b89f01699" />
  |
 | **Product detail** | <img width="1902" height="907" alt="Screenshot 2026-06-29 174557" src="https://github.com/user-attachments/assets/6c8a137e-303e-47db-b4ea-bdb329cd9fee" />
  |
