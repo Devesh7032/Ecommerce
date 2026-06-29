@@ -287,16 +287,15 @@ VITE_GEMINI_API_KEY=your-google-gemini-api-key
 ---
 
 ## 📸 Screenshots
- |page| |images|
- |**Catalog Dashboard**| <img width="1898" height="912" alt="Screenshot 2026-06-29 174437" src="https://github.com/user-attachments/assets/1fb7bca7-72ee-4c88-90cc-300b89f01699" />
+ **Catalog Dashboard** <img width="1898" height="912" alt="Screenshot 2026-06-29 174437" src="https://github.com/user-attachments/assets/1fb7bca7-72ee-4c88-90cc-300b89f01699" />
  |
-| **Product detail** | <img width="1902" height="907" alt="Screenshot 2026-06-29 174557" src="https://github.com/user-attachments/assets/6c8a137e-303e-47db-b4ea-bdb329cd9fee" />
+ **Product detail**  <img width="1902" height="907" alt="Screenshot 2026-06-29 174557" src="https://github.com/user-attachments/assets/6c8a137e-303e-47db-b4ea-bdb329cd9fee" />
  |
-| **AI Insights Panel** | <img width="1903" height="907" alt="Screenshot 2026-06-29 174756" src="https://github.com/user-attachments/assets/837a4b3a-676d-4652-8e3c-9875901738b0" />
+ **AI Insights Panel**  <img width="1903" height="907" alt="Screenshot 2026-06-29 174756" src="https://github.com/user-attachments/assets/837a4b3a-676d-4652-8e3c-9875901738b0" />
  |
-| **Cart & checkout** | <img width="1907" height="908" alt="Screenshot 2026-06-29 174856" src="https://github.com/user-attachments/assets/b84acb8d-c733-407e-b4a5-7d3bddd50880" />
+**Cart & checkout** <img width="1907" height="908" alt="Screenshot 2026-06-29 174856" src="https://github.com/user-attachments/assets/b84acb8d-c733-407e-b4a5-7d3bddd50880" />
  |
-| **Dashboard History** | <img width="1902" height="908" alt="Screenshot 2026-06-29 174936" src="https://github.com/user-attachments/assets/c34e5a7a-c138-4934-a87f-da0dad2c36c9" />
+ **Dashboard History** <img width="1902" height="908" alt="Screenshot 2026-06-29 174936" src="https://github.com/user-attachments/assets/c34e5a7a-c138-4934-a87f-da0dad2c36c9" />
  |
 
 
